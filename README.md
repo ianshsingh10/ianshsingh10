@@ -1,9 +1,9 @@
 # Hi there, I'm Ansh Singh! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Ianshsingh10)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces)]([https://codeforces.com/profile/YOUR_USERNAME](https://codeforces.com/profile/ianshsingh10))
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ianshsingh1)
-[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ianshsingh10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ianshsingh10)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ianshsingh10)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ianshsingh1)
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianshsingh10@gmail.com)
 
 ---
 
